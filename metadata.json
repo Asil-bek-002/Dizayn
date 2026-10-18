@@ -1,0 +1,6 @@
+{
+  "name": "PostPack Studio",
+  "description": "Har oy yangi dizayn. O‘zbekiston kichik bizneslari uchun professional ijtimoiy tarmoq dizayn obunasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
